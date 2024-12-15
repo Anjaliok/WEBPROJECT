@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+  }
+  
+  .container {
+    margin: 20px auto;
+    width: 80%;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  .controls {
+    margin: 10px 0;
+  }
+  
+  button, select {
+    margin: 5px;
+    padding: 10px;
+    font-size: 16px;
+  }
+  
+  canvas {
+    border: 1px solid #ccc;
+    background-color: #fff;
+    display: block;
+    margin: 0 auto;
+  }
